@@ -2,7 +2,7 @@
 Stores releases of the scion-orchestrator project for the SCION Education, Research and Academic Network SCIERA of all known ASes that run our bootstrapping servers.
 
 ## Get Started
-At first navigate to [Releases](/releases/) and search for the SCION AS that you want to bootstrap in. Then open the release and search for the archive that is targeted for your operating system. Download the archive on the host that you want to run SCION on. Now extract the archive somewhere on your machine. Next, follow the OS specific instructions:
+At first navigate to [Releases](https://github.com/netsys-lab/scion-orchestrator-releases/releases) and search for the SCION AS that you want to bootstrap in. Then open the release and search for the archive that is targeted for your operating system. Download the archive on the host that you want to run SCION on. Now extract the archive somewhere on your machine. Next, follow the OS specific instructions:
 
 ### Linux/MacOS
 To test the SCION endhost stack, move into the extracted folder. Then run `sudo ./scion-orchestrator run`. It should start up and not display any errors.
